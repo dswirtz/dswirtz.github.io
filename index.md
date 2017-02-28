@@ -57,7 +57,7 @@ dim(data); colnames(data)
 
 In this example, the data table was filtered to see which team from 2004 to 2014 had the most wins. You can see that the 2004 St. Louis Cardinals had the most wins with 105.
 
-![](./assets/img/DataTable.png)
+![](./assets/img/DataTable.PNG)
 
 ---
 
@@ -65,7 +65,7 @@ In this example, the data table was filtered to see which team from 2004 to 2014
 
 In this example, the chart is displaying the trend of strike outs (SO) for every team from 1973 to 2014. 
 
-![](./assets/img/Chart.png)
+![](./assets/img/Chart.PNG)
 
 
 
